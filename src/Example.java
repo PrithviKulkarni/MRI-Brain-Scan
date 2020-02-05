@@ -47,6 +47,8 @@ public class Example extends Application {
 	ImageView imageViewX = new ImageView(medical_imageX);
 	ImageView imageViewY = new ImageView(medical_imageY);
 	ImageView imageViewZ = new ImageView(medical_imageZ);
+	//test
+	
 	
 	
 	@Override
