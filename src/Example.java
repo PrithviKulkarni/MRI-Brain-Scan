@@ -36,7 +36,7 @@ public class Example extends Application {
 	static final int IMAGE_HEIGHT = 256;
 	static final int IMAGE_SLICES = 113;
 	static final int WINDOW_WIDTH = 800;
-	static final int WINDOW_HEIGHT = 1000;
+	static final int WINDOW_HEIGHT = 999;
 	static int SCALE_FACTOR = 1;
 
 	//STATIC TO KEEP IMAGE FROM RESIZING TO DEFAULT
